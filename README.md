@@ -2,7 +2,7 @@
 
 Deciding which is the best modern database is the biggest challenge for those who build systemic solutions.
 
-A relational/SQL or non-relational/NoSQL data structure are viable options. However we must keep in mind there are critical differences between the two. 
+A relational or non-relational data structure are viable options. However we must keep in mind there are critical differences between the two. 
 
 SQL databases are relational and NoSQL databases are non-relational.
 Using structured query language the SQL databases have a predefined schema, while NoSQL databases have dynamic schemas for unstructured data. 
